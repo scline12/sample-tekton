@@ -18,9 +18,9 @@ func forTest(a, b int) int {
 	if r == 10 {
 		return r
 	}
-	fmt.Println("Testing GX-4884")
-	fmt.Println("Testing GX-4884")
-	fmt.Println("Testing GX-4884")
+	fmt.Println("Testing SDP-2290")
+	fmt.Println("Testing SDP-2290")
+	fmt.Println("Testing SDP-2290")
 	return r
 }
 
